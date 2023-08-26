@@ -1,3 +1,3 @@
-a = int(input())
-c = (a-1)%9+1
-print(c)
+l = int(input())
+v = (l-1)%9+1
+print(v)
